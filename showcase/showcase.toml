@@ -1,0 +1,11 @@
+[[media]]
+file = "dive.json.gz"
+name = "An echo through the abyss"
+
+[[media]]
+file = "kindle.png"
+name = "The light you carry"
+
+[[media]]
+file = "title.png"
+name = "Hunt in the dark"
